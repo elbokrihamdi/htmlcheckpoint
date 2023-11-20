@@ -1,0 +1,80 @@
+h1{
+    color: #000;
+    font-family: cursive;
+}
+nav{
+    color: burlywood 100 px;
+}
+p{
+    color: red;
+    font-family:cursive;
+    font-size: 26px;
+    line-height: 20px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+h2{
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+section{
+     color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bolder;
+}
+footer{
+    color: green;
+    text-align: right;
+    direction: rtl;
+}
+input{
+    background: red;
+}
+table{
+    background-color: yellowgreen;
+}
+.c{
+    height: 200px;
+    width: 200px;
+    border: 5px gold solid;
+    background-color: blueviolet;
+    background-image: url(assets/image.pg.avif);
+    background-size: contain;
+}
+.first{
+    border: 5px rebeccapurple solid;
+    width: 50%;
+    margin-right: 250%;
+    margin-left: 25%;    
+}
+.{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: red;
+    cursor: grab;
+}
+a:hover{
+    color: blue;
+    font-size: 20px;
+}
+ol{
+    color: red;
+}
+div{
+    background-color: red;
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+    padding: 5px;
+    display: inline-block
+}
+span{
+    background-color: blue;
+    padding: 0px 10px;
+display: inline-block;
+}
